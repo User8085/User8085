@@ -7,9 +7,9 @@
 
 <!-- ✦ Animated Typing ✦ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E1E2E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E1E2E&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
 </picture>
 
 </div>
@@ -78,11 +78,9 @@ Second PCB project focused on smart monitoring applications.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" width="450"/>
-</picture>
+<a href="https://github.com/User8085">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_mocha&hide_border=true" width="450"/>
+</a>
 
 </div>
 
