@@ -1,0 +1,120 @@
+<div align="center">
+
+<!-- ✦ Banner ✦ -->
+<img src="assets/banner.svg" alt="Shubh Verma — Embedded Systems | PCB Design | Firmware" width="800"/>
+
+<br/>
+
+<!-- ✦ Animated Typing ✦ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E1E2E&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CDD6F4&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Embedded+Systems+Enthusiast;PCB+Designer+%26+Hardware+Tinkerer;Firmware+Developer+in+the+Making;Building+things+that+blink%2C+beep+%26+fly+%E2%9C%A8" />
+</picture>
+
+</div>
+
+---
+
+### 👋 Hey there!
+
+I'm **Shubh Verma**, a final-year B.Tech ECE student (minor in CS) at **GLA University, Mathura** — graduating in 2027.  
+I love working at the intersection of hardware and software, from designing PCBs to writing firmware for microcontrollers.
+
+---
+
+### 🔭 What I'm Up To
+
+- 🌱 Diving deep into **Embedded C** and **firmware development**
+- ⚡ Building projects with **ESP32** and custom **PCBs**
+- 📚 Exploring **PID control** and **Kalman filtering** for real-world applications
+
+---
+
+### 🛠 Tech Stack
+
+**Embedded**
+
+![C](https://img.shields.io/badge/C-313244?style=for-the-badge&logo=c&logoColor=fab387)
+![Embedded C](https://img.shields.io/badge/Embedded_C-313244?style=for-the-badge&logo=c&logoColor=fab387)
+![ESP32](https://img.shields.io/badge/ESP32-313244?style=for-the-badge&logo=espressif&logoColor=fab387)
+![Arduino](https://img.shields.io/badge/Arduino-313244?style=for-the-badge&logo=arduino&logoColor=fab387)
+![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-313244?style=for-the-badge&logoColor=fab387)
+
+**PCB & Hardware**
+
+![KiCad](https://img.shields.io/badge/KiCad-313244?style=for-the-badge&logo=kicad&logoColor=a6e3a1)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-313244?style=for-the-badge&logoColor=a6e3a1)
+![I2C](https://img.shields.io/badge/I2C-313244?style=for-the-badge&logoColor=a6e3a1)
+![SPI](https://img.shields.io/badge/SPI-313244?style=for-the-badge&logoColor=a6e3a1)
+![UART](https://img.shields.io/badge/UART-313244?style=for-the-badge&logoColor=a6e3a1)
+![USB](https://img.shields.io/badge/USB-313244?style=for-the-badge&logoColor=a6e3a1)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-313244?style=for-the-badge&logo=git&logoColor=b4befe)
+![GitHub](https://img.shields.io/badge/GitHub-313244?style=for-the-badge&logo=github&logoColor=b4befe)
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **[Smart Thrust Vector Control (TVC) System](https://github.com/User8085/Smart-Thrust-Vector-Control-TVC-System)**
+<!-- TODO: Replace "Smart-Thrust-Vector-Control-TVC-System" in the URL with the exact repo name -->
+ESP32-based thrust vector control system — group project supervised by faculty at GLA University.
+<!-- TODO: Add final results, demo video link, or photos once available -->
+
+🔹 **[First PCB Project](https://github.com/User8085/First_PCB_Project)**
+My first PCB design — a custom board built around the PIC16LF1829 microcontroller.
+<!-- TODO: Add photo of the assembled PCB and brief design notes -->
+
+🔹 **[Smart Monitoring PCB Design](https://github.com/User8085/SmartMonitoringPCB_Design)**
+Second PCB project focused on smart monitoring applications.
+<!-- TODO: Add project details, schematic screenshots, and what it monitors -->
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=00000000" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=User8085&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" width="450"/>
+</picture>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/User8085/GithubProfile/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/User8085/GithubProfile/dist/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/User8085/GithubProfile/dist/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Snake SVGs are auto-generated by the GitHub Action in .github/workflows/snake.yml -->
+<!-- They won't appear until you push this repo and the workflow runs for the first time -->
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-313244?style=for-the-badge&logo=linkedin&logoColor=b4befe)](https://www.linkedin.com/in/shubh-verma-431ba827a)
+[![GitHub](https://img.shields.io/badge/GitHub-313244?style=for-the-badge&logo=github&logoColor=b4befe)](https://github.com/User8085)
+
+<br/>
+
+<sub>✨ Made with care and the <a href="https://github.com/catppuccin/catppuccin">Catppuccin Mocha</a> palette ✨</sub>
+
+</div>
+

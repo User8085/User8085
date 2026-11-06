@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1e2e" />
+      <stop offset="100%" style="stop-color:#181825" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="16" fill="url(#bg)" stroke="#313244" stroke-width="1"/>
+
+  <!-- Decorative dots -->
+  <circle cx="60"  cy="35"  r="4"   fill="#f5c2e7" opacity="0.35"/>
+  <circle cx="740" cy="165" r="5.5" fill="#cba6f7" opacity="0.28"/>
+  <circle cx="710" cy="38"  r="3"   fill="#fab387" opacity="0.40"/>
+  <circle cx="90"  cy="160" r="4.5" fill="#a6e3a1" opacity="0.30"/>
+  <circle cx="690" cy="148" r="2.5" fill="#f5e0dc" opacity="0.35"/>
+  <circle cx="115" cy="48"  r="2"   fill="#b4befe" opacity="0.45"/>
+  <circle cx="400" cy="18"  r="2"   fill="#f5c2e7" opacity="0.22"/>
+  <circle cx="350" cy="185" r="3"   fill="#fab387" opacity="0.20"/>
+
+  <!-- Subtle accent lines -->
+  <line x1="35" y1="100" x2="75"  y2="100" stroke="#45475a" stroke-width="1" stroke-linecap="round" opacity="0.40"/>
+  <line x1="725" y1="100" x2="765" y2="100" stroke="#45475a" stroke-width="1" stroke-linecap="round" opacity="0.40"/>
+
+  <!-- Name -->
+  <text x="400" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="700" fill="#cdd6f4" text-anchor="middle" letter-spacing="1">
+    Shubh Verma
+  </text>
+
+  <!-- Tagline -->
+  <text x="400" y="126" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#f5c2e7" text-anchor="middle" letter-spacing="2">
+    Embedded Systems  ·  PCB Design  ·  Firmware
+  </text>
+
+  <!-- Bottom accent bar -->
+  <rect x="310" y="152" width="180" height="2.5" rx="1.25" fill="#cba6f7" opacity="0.55"/>
+</svg>
+
